@@ -41,26 +41,26 @@ git clone [https://github.com/osint-media-cache-analyzer.git](https://github.com
 cd osint-media-cache-analyzer
 
 ```
-##Install the required third-party libraries:
+## Install the required third-party libraries:
 ```
 pip install requests beautifulsoup4
 ```
-##Usage
+## Usage
 Run the auditing tool via terminal:
 ```
 python osint-cache-analyzer.py
 ```
 
-##Follow the screen prompts to input the target profile username for the public network caching audit.
+## Follow the screen prompts to input the target profile username for the public network caching audit.
 
-##🛡️ Mitigation Strategies & Platform Defense
+## 🛡️ Mitigation Strategies & Platform Defense
 To mitigate the exposure analyzed by this research framework, modern web application architectures should deploy:
 Immediate CDN Purging: Implementing real-time cache invalidation webhooks when user account scopes or visibility settings alter.
 Cryptographic URL Signing: Restricting static content paths by adding time-bound access hashes requiring live session validation.
 
-##👤 Author
+## 👤 Author
 Aryan Kacher - Cyber Security Enthusiast & Developer
 
-##📜 Disclaimer
+## 📜 Disclaimer
 This software is provided strictly for Educational, Ethical Research, and Defensive Security Auditing purposes. The author does not condone or support unauthorized scanning or automated scraping against platform terms of service. It operates entirely within publicly exposed, unauthenticated client domains.
 
