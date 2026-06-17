@@ -37,16 +37,18 @@ Make sure you have Python 3.8 or higher installed on your environment (Termux, L
 ### Installation
 Clone this repository or download the script directly:
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/osint-media-cache-analyzer.git](https://github.com/YOUR_GITHUB_USERNAME/osint-media-cache-analyzer.git)
+git clone [https://github.com/osint-media-cache-analyzer.git](https://github.com/osint-media-cache-analyzer.git)
 cd osint-media-cache-analyzer
-
+```
 Install the required third-party libraries:
-
+```
 pip install requests beautifulsoup4
-
+```
 Usage
 Run the auditing tool via terminal:
+```
 python osint-cache-analyzer.py
+```
 
 Follow the screen prompts to input the target profile username for the public network caching audit.
 🛡️ Mitigation Strategies & Platform Defense
@@ -57,3 +59,4 @@ Cryptographic URL Signing: Restricting static content paths by adding time-bound
 Aryan Kacher - Cyber Security Enthusiast & Developer
 📜 Disclaimer
 This software is provided strictly for Educational, Ethical Research, and Defensive Security Auditing purposes. The author does not condone or support unauthorized scanning or automated scraping against platform terms of service. It operates entirely within publicly exposed, unauthenticated client domains.
+
