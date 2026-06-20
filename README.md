@@ -58,6 +58,21 @@ To mitigate the exposure analyzed by this research framework, modern web applica
 Immediate CDN Purging: Implementing real-time cache invalidation webhooks when user account scopes or visibility settings alter.
 Cryptographic URL Signing: Restricting static content paths by adding time-bound access hashes requiring live session validation.
 
+# My Projects Screenshots
+
+## Instagram Project
+![Instagram Screenshot](Screenshot_2026-06-20-10-57-33-936_com.instagram.android-edit.jpg)
+
+## Termux Setup
+![Termux 1](Screenshot_2026-06-20-10-50-02-142_com.termux.jpg)
+
+![Termux 2](Screenshot_2026-06-20-10-50-39-040_com.termux-edit.jpg)
+
+## Chrome Screenshots
+![Chrome 1](Screenshot_2026-06-20-10-51-38-971_com.android.chrome-edit.jpg)
+
+![Chrome 2](Screenshot_2026-06-20-10-52-24-026_com.android.chrome-edit.jpg)
+
 ## 👤 Author
 Aryan Kacher - Cyber Security Enthusiast & Developer
 
